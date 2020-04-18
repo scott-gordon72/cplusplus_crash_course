@@ -1,3 +1,8 @@
+/*
+ * A program that assigns several integer variables and prints them with
+ * the appropriate format specifier.
+ */
+
 #include <cstdio>
 
 int main()
